@@ -8,16 +8,16 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "space-around",
     alignItems: "center",
-    backgroundColor: "#f1f1f1ff", // cinza claro
+    backgroundColor: "#f1f1f1ff", 
   },
   title: {
     fontSize: 26,
-    color: "#949dd8ff", // azul escuro
+    color: "#949dd8ff", 
     fontWeight: "bold",
   },
   text: {
     fontSize: 20,
-    color: "#aed3f3ff", // azul médio
+    color: "#aed3f3ff", 
   },
   input: {
     width: "80%",
@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
     borderWidth: 2,
     padding: 10,
     borderRadius: 8,
-    backgroundColor: "#53626dff" // azul bem claro
+    backgroundColor: "#53626dff" 
   },
   button: {
     marginVertical: 10,
@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
   },
   imcResult: {
     fontSize: 18,
-    color: "#000000ff", // vermelho
+    color: "#000000ff", 
     marginTop: 10,
     fontWeight: "bold"
   }
