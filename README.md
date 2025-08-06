@@ -44,5 +44,5 @@ npm run reset-project
 
 ## Wireframes
 
-![01]()
-![02]()
+![01](./assets/images/Captura%20de%20tela%202025-08-06%20100721.png)
+![02](./assets/images/Captura%20de%20tela%202025-08-06%20100857.png)
